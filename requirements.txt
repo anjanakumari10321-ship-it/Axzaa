@@ -11,3 +11,5 @@ yt-dlp==2024.08.06
 pyrogram
 tgcrypto
 aiohttp
+pip freeze > requirements.txt
+pip install -r path/to/requirements.txt
